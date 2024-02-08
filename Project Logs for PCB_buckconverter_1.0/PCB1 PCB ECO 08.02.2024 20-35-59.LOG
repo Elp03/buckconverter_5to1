@@ -1,0 +1,105 @@
+Add Component: Footprint Not Found CAPPRD500W60D1000H1400
+Added Component: Designator=D?(SOD2512X110N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=CMDSH2-3.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Central Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CMDSH2-3 TR PBFREE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "610-CMDSH2-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Central-Semiconductor/CMDSH2-3-TR-PBFREE?qs=u16ybLDytRa%2FuaZxWATy%2FQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(SOP65P640X120-21N)
+Add component (AddParameter): Name = "Case/Package"; Value = "TSSOP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clock Sync"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.linear.com/docs/45333?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.linear.com/docs/45333?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.farnell.com/datasheets/1852475.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/1852475.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/ltc3807ifepbf/analog-devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Analog Devices / Linear Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "LTC3807IFE#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LTC3807IFE#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Duty Cycle"; Value = "99%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "38V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Output Phases"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Configuration"; Value = "Positive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=6,91000, 25=4,58840, 100=3,79400 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "169"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "LTC3807IFE#PBF-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switching Frequency"; Value = "900kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Synchronous Rectifier"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=J?(PHOE-1725656-2)
+Add component (AddParameter): Name = "Colour"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Content"; Value = "250pc(s)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/1725656-Phoenix-Contact-datasheet-5302866.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Apr-08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Industrial packaging"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer part No."; Value = "1725656"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.phoenixcontact.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "MPT0,5/2-2,54"; VariantName = "[No Variations]"
+Added Component: Designator=J?(PHOE-1725656-2)
+Add component (AddParameter): Name = "Colour"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Content"; Value = "250pc(s)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/1725656-Phoenix-Contact-datasheet-5302866.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Apr-08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Industrial packaging"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer part No."; Value = "1725656"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.phoenixcontact.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "MPT0,5/2-2,54"; VariantName = "[No Variations]"
+Added Component: Designator=R_sense(RESC6432X90N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CRE2512-FZ-R008E-3/Bourns/view-part/984047/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "CRE2512-FZ-R008E-3CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRE2512-FZ-R008E-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "6432 Stackpole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRE2512-FZ-R008E-3/Bourns/view-part/984047/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAPPRD500W60D1000H1400
+Added Pin To Net: NetName=GND Pin=IC?-2
+Added Pin To Net: NetName=GND Pin=IC?-17
+Added Pin To Net: NetName=GND Pin=IC?-21
+Added Net: Name=GND
+Added Pin To Net: NetName=Net_2 Pin=R_sense-2
+Added Net: Name=Net_2
+Added Pin To Net: NetName=NetC1_2 Pin=D?-1
+Added Pin To Net: NetName=NetC1_2 Pin=D?-2
+Added Pin To Net: NetName=NetC1_2 Pin=IC?-16
+Added Net: Name=NetC1_2
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC3_1 Pin=IC?-13
+Added Pin To Net: NetName=NetC3_1 Pin=IC?-19
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC4_2 Pin=IC?-1
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC5_2 Pin=IC?-10
+Added Net: Name=NetC5_2
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetIC?_9 Pin=IC?-9
+Added Net: Name=NetIC?_9
+Added Pin To Net: NetName=NetIC?_12 Pin=IC?-12
+Added Net: Name=NetIC?_12
+Added Pin To Net: NetName=NetIC?_15 Pin=IC?-15
+Added Net: Name=NetIC?_15
+Added Pin To Net: NetName=NetL1_2 Pin=R_sense-1
+Added Net: Name=NetL1_2
+Added Net: Name=NetM1_3
+Added Class: Name=buckconverter_sheet
