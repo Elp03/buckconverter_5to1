@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=buckconverter_sheet Member=R?
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-2
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Added Member To Class: ClassName=buckconverter_sheet Member=Component J? 1725656
+Add Class Member: Failed to add class member : Component L1 Inductor
+Added Member To Class: ClassName=buckconverter_sheet Member=Component Q2 IRF7413PBF
