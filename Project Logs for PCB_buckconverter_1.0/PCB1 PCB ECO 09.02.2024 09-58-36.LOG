@@ -1,0 +1,80 @@
+Add Component: Footprint Not Found CAPPRD500W60D1000H1400
+Added Component: Designator=Q?(INTR-SO-8_V)
+Add component (AddParameter): Name = "Channel Type"; Value = "N-Channel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.infineon.com/dgdl/irf7413pbf.pdf?fileId=5546d462533600a4015355fa8e901bb8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "02/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain-Source On Resistance-Max"; Value = "0.011O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain-to-Source Voltage [Vdss]"; Value = "30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "International Rectifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://internationalrectifier.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "8-Pin Small Outline Integrated Circuit, Body 4.9 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SO-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Qg Gate Charge"; Value = "52nC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power Dissipation"; Value = "2.5W"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(INTR-SO-8_V)
+Add component (AddParameter): Name = "Channel Type"; Value = "N-Channel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.infineon.com/dgdl/irf7413pbf.pdf?fileId=5546d462533600a4015355fa8e901bb8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "02/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain-Source On Resistance-Max"; Value = "0.011O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain-to-Source Voltage [Vdss]"; Value = "30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "International Rectifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://internationalrectifier.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "8-Pin Small Outline Integrated Circuit, Body 4.9 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SO-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Qg Gate Charge"; Value = "52nC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power Dissipation"; Value = "2.5W"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAPPRD500W60D1000H1400
+Add Pin To Net: Unknown Pin: Pin -2
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Added Pin To Net: NetName=NetC2_1 Pin=Q?-1
+Added Pin To Net: NetName=NetC2_1 Pin=Q?-2
+Added Pin To Net: NetName=NetC2_1 Pin=Q?-3
+Added Pin To Net: NetName=NetIC?_12 Pin=Q?-4
+Added Pin To Net: NetName=NetIC?_15 Pin=Q?-4
+Added Pin To Net: NetName=NetC3_1 Pin=Q?-5
+Added Pin To Net: NetName=NetC3_1 Pin=Q?-6
+Added Pin To Net: NetName=NetC3_1 Pin=Q?-7
+Added Pin To Net: NetName=NetC3_1 Pin=Q?-8
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R_A(R6)-1
+Add Pin To Net: Unknown Pin: Pin R_A(R6)-2
+Add Pin To Net: Unknown Pin: Pin R_B(R5)-1
+Add Pin To Net: Unknown Pin: Pin R_B(R5)-2
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-2
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-3
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-5
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-6
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-7
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-8
+Added Net: Name=NetQ?_1
+Add Class Member: Failed to add class member : Component C1 Capacitor
+Add Class Member: Failed to add class member : Component C2 Capacitor
+Add Class Member: Failed to add class member : Component C3 Capacitor
+Add Class Member: Failed to add class member : Component C4 Capacitor
+Add Class Member: Failed to add class member : Component C5 Capacitor
+Add Class Member: Failed to add class member : Component C6 Capacitor
+Add Class Member: Failed to add class member : Component C? RR71A221MDN1PH
+Added Member To Class: ClassName=buckconverter_sheet Member=Component J? 1725656
+Add Class Member: Failed to add class member : Component L1 Inductor
+Added Member To Class: ClassName=buckconverter_sheet Member=Component Q? IRF7413PBF
+Added Member To Class: ClassName=buckconverter_sheet Member=Component Q? IRF7413PBF
+Add Class Member: Failed to add class member : Component R2 Resistor
+Add Class Member: Failed to add class member : Component R_A(R6) Resistor
+Add Class Member: Failed to add class member : Component R_B(R5) Resistor
+Add Class Member: Failed to add class member : Component  RR71A221MDN1PH

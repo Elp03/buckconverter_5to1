@@ -1,0 +1,40 @@
+Added Component: Designator=C1-2.2u(FP-C0805C-DN-MFG)
+Added Component: Designator=C3-22u(FP-C0805C-DN-MFG)
+Added Component: Designator=C4-0.1u(FP-C0805C-DN-MFG)
+Added Component: Designator=C5-47p(FP-C0805C-DN-MFG)
+Added Component: Designator=C6-4.7n(FP-C0805C-DN-MFG)
+Added Component: Designator=C?(FP-C0805C-DN-MFG)
+Add Component: Footprint Not Found CAPPRD500W60D1000H1400
+Add Pin To Net: Unknown Pin: Pin -1
+Add Pin To Net: Unknown Pin: Pin -2
+Add Pin To Net: Unknown Pin: Pin C1-2.2u-1
+Add Pin To Net: Unknown Pin: Pin C1-2.2u-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-0.1u-1
+Add Pin To Net: Unknown Pin: Pin C5-47p-1
+Add Pin To Net: Unknown Pin: Pin C6-4.7n-1
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetC1-2.2u_2
+Added Pin To Net: NetName=NetC4-0.1u_2 Pin=IC?-1
+Added Net: Name=NetC4-0.1u_2
+Added Pin To Net: NetName=NetC5-47p_2 Pin=IC?-10
+Added Pin To Net: NetName=NetC5-47p_2 Pin=R2_15.4k-2
+Added Net: Name=NetC5-47p_2
+Added Pin To Net: NetName=NetC6-4.7n_2 Pin=R2_15.4k-1
+Added Net: Name=NetC6-4.7n_2
+Add Class Member: Failed to add class member : Component C1-2.2u 2.2u
+Add Class Member: Failed to add class member : Component C2 Capacitor
+Add Class Member: Failed to add class member : Component C3-22u C0805C101J5GAC
+Add Class Member: Failed to add class member : Component C3 Capacitor
+Add Class Member: Failed to add class member : Component C4-0.1u  
+Add Class Member: Failed to add class member : Component C5-47p C0805C101J5GAC
+Add Class Member: Failed to add class member : Component C6-4.7n 4.7n
+Add Class Member: Failed to add class member : Component C? C0805C101J5GAC
+Added Member To Class: ClassName=buckconverter_sheet Member=Component J? 1725656
+Add Class Member: Failed to add class member : Component L1 Inductor
+Added Member To Class: ClassName=buckconverter_sheet Member=Component Q? IRF7413PBF
+Add Class Member: Failed to add class member : Component  RR71A221MDN1PH

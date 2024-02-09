@@ -1,0 +1,50 @@
+Added Component: Designator=R2_15.4k(RESC2013X50X30LL20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW08050000Z0EA"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC2013X50X30LL20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW08050000Z0EA"; VariantName = "[No Variations]"
+Added Component: Designator=R_A-40k(RESC2013X50X30LL20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW08050000Z0EA"; VariantName = "[No Variations]"
+Added Component: Designator=R_B-10k(RESC2013X50X30LL20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW08050000Z0EA"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAPPRD500W60D1000H1400
+Add Pin To Net: Unknown Pin: Pin -1
+Add Pin To Net: Unknown Pin: Pin -2
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Added Pin To Net: NetName=Net_2 Pin=J?-1
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Added Pin To Net: NetName=GND Pin=R_A-40k-1
+Added Pin To Net: NetName=NetIC?_9 Pin=R_A-40k-2
+Added Pin To Net: NetName=NetIC?_9 Pin=R_B-10k-1
+Added Pin To Net: NetName=Net_2 Pin=R_B-10k-2
+Add Class Member: Failed to add class member : Component C1 Capacitor
+Add Class Member: Failed to add class member : Component C2 Capacitor
+Add Class Member: Failed to add class member : Component C3 Capacitor
+Add Class Member: Failed to add class member : Component C4 Capacitor
+Add Class Member: Failed to add class member : Component C5 Capacitor
+Add Class Member: Failed to add class member : Component C6 Capacitor
+Added Member To Class: ClassName=buckconverter_sheet Member=Component J? 1725656
+Add Class Member: Failed to add class member : Component L1 Inductor
+Added Member To Class: ClassName=buckconverter_sheet Member=Component Q? IRF7413PBF
+Added Member To Class: ClassName=buckconverter_sheet Member=Component R2_15.4k CRCW08050000Z0EA
+Add Class Member: Failed to add class member : Component R2 Resistor
+Added Member To Class: ClassName=buckconverter_sheet Member=Component R? CRCW08050000Z0EA
+Added Member To Class: ClassName=buckconverter_sheet Member=Component R_A-40k CRCW08050000Z0EA
+Added Member To Class: ClassName=buckconverter_sheet Member=Component R_B-10k CRCW08050000Z0EA
+Add Class Member: Failed to add class member : Component  RR71A221MDN1PH
