@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=NetIC?_9 Pin=IC?-7
+Change Net Name : Old Net Name=NetIC?_9 New Net Name=NetIC?_7
+Added Pin To Net: NetName=NetIC?_8 Pin=IC?-8
+Added Pin To Net: NetName=NetIC?_8 Pin=L1-2
+Added Pin To Net: NetName=NetIC?_8 Pin=R_sense-1
+Added Net: Name=NetIC?_8
+Added Member To Class: ClassName=buckconverter_sheet Member=Component J? 1725656

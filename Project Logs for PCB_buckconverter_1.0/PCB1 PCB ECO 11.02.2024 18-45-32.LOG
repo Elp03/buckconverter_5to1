@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=C1-2.2u-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C4-0.1u-1
+Removed Pin From Net: NetName=GND Pin=C5-47p-1
+Removed Pin From Net: NetName=GND Pin=C6-4.7n-1
+Removed Pin From Net: NetName=GND Pin=Cout-1
+Removed Pin From Net: NetName=GND Pin=IC?-2
+Removed Pin From Net: NetName=GND Pin=IC?-17
+Removed Pin From Net: NetName=GND Pin=IC?-21
+Removed Pin From Net: NetName=GND Pin=J?-2
+Removed Pin From Net: NetName=GND Pin=J?-2
+Removed Pin From Net: NetName=GND Pin=R_A-40k-1
+Change Net Name : Old Net Name=GND New Net Name=NetC1 - 0.1u_1
+Added Pin To Net: NetName=GND Pin=C1-2.2u-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-0.1u-1
+Added Pin To Net: NetName=GND Pin=C5-47p-1
+Added Pin To Net: NetName=GND Pin=C6-4.7n-1
+Added Pin To Net: NetName=GND Pin=Cout-1
+Added Pin To Net: NetName=GND Pin=IC?-2
+Added Pin To Net: NetName=GND Pin=IC?-17
+Added Pin To Net: NetName=GND Pin=IC?-21
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=GND Pin=R_A-40k-1
+Added Net: Name=GND
+Added Member To Class: ClassName=buckconverter_sheet Member=Component J? 1725656
