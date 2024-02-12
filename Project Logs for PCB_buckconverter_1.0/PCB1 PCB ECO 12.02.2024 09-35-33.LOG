@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=NetC1 - 0.1u_1 Pin=C1 - 0.1u-1
+Removed Pin From Net: NetName=NetC1 - 0.1u_1 Pin=C1-2.2u-2
+Removed Pin From Net: NetName=NetC1 - 0.1u_1 Pin=D?-1
+Removed Pin From Net: NetName=NetC1 - 0.1u_1 Pin=D?-2
+Removed Pin From Net: NetName=NetIC?_7 Pin=IC?-7
+Removed Pin From Net: NetName=NetC1 - 0.1u_1 Pin=IC?-13
+Removed Pin From Net: NetName=NetC1 - 0.1u_1 Pin=IC?-16
+Removed Pin From Net: NetName=NetC1 - 0.1u_1 Pin=L1-1
+Removed Pin From Net: NetName=NetCout_2 Pin=Q1-1
+Removed Pin From Net: NetName=NetCout_2 Pin=Q1-2
+Removed Pin From Net: NetName=NetCout_2 Pin=Q1-3
+Removed Pin From Net: NetName=NetIC?_12 Pin=Q1-4
+Removed Pin From Net: NetName=NetC1 - 0.1u_1 Pin=Q1-5
+Removed Pin From Net: NetName=NetC1 - 0.1u_1 Pin=Q1-6
+Removed Pin From Net: NetName=NetC1 - 0.1u_1 Pin=Q1-7
+Removed Pin From Net: NetName=NetC1 - 0.1u_1 Pin=Q1-8
+Removed Pin From Net: NetName=NetIC?_15 Pin=Q2-4
+Added Pin To Net: NetName=NetCout_2 Pin=IC?-7
+Added Pin To Net: NetName=NetC1 - 0.1u_2 Pin=IC?-13
+Added Pin To Net: NetName=NetC1 - 0.1u_2 Pin=L1-1
+Added Pin To Net: NetName=NetIC?_15 Pin=Q1-4
+Added Pin To Net: NetName=NetC1 - 0.1u_2 Pin=Q1-5
+Added Pin To Net: NetName=NetC1 - 0.1u_2 Pin=Q1-6
+Added Pin To Net: NetName=NetC1 - 0.1u_2 Pin=Q1-7
+Added Pin To Net: NetName=NetC1 - 0.1u_2 Pin=Q1-8
+Added Pin To Net: NetName=NetIC?_12 Pin=Q2-4
+Change Net Name : Old Net Name=NetC1 - 0.1u_1 New Net Name=NetC3_1
+Change Net Name : Old Net Name=NetIC?_7 New Net Name=NetIC?_9
+Added Pin To Net: NetName=NetC1 - 0.1u_1 Pin=C1 - 0.1u-1
+Added Pin To Net: NetName=NetC1 - 0.1u_1 Pin=D?-1
+Added Pin To Net: NetName=NetC1 - 0.1u_1 Pin=IC?-14
+Added Net: Name=NetC1 - 0.1u_1
+Added Pin To Net: NetName=NetC1-2.2u_2 Pin=C1-2.2u-2
+Added Pin To Net: NetName=NetC1-2.2u_2 Pin=D?-2
+Added Pin To Net: NetName=NetC1-2.2u_2 Pin=IC?-16
+Added Net: Name=NetC1-2.2u_2
+Added Pin To Net: NetName=NetIC?_18 Pin=IC?-18
+Added Pin To Net: NetName=NetIC?_18 Pin=Q1-1
+Added Pin To Net: NetName=NetIC?_18 Pin=Q1-2
+Added Pin To Net: NetName=NetIC?_18 Pin=Q1-3
+Added Net: Name=NetIC?_18
+Added Member To Class: ClassName=buckconverter_sheet Member=Component J? 1725656
