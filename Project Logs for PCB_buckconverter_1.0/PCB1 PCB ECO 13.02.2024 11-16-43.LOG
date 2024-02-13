@@ -1,0 +1,22 @@
+Change Component Designator: OldDesignator=C1 NewDesignator=C2 - 0.1u
+Change Component Designator: OldDesignator=C2 NewDesignator=C1-2.2u
+Change Component Designator: OldDesignator=C4 NewDesignator=C4-0.1u
+Change Component Designator: OldDesignator=C5 NewDesignator=C5-47p
+Change Component Designator: OldDesignator=C6 NewDesignator=C6-4.7n
+Change Component Designator: OldDesignator=D1 NewDesignator=D?
+Change Component Designator: OldDesignator=J1 NewDesignator=J?
+Change Component Designator: OldDesignator=J2 NewDesignator=J?
+Change Component Designator: OldDesignator=LTC NewDesignator=IC?
+Change Component Designator: OldDesignator=R2 NewDesignator=R2_15.4k
+Change Component Designator: OldDesignator=R_A NewDesignator=R_A-40k2
+Change Component Designator: OldDesignator=R_B NewDesignator=R_B-10k
+Added Pin To Net: NetName=GND Pin=IC?-18
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q1-3
+Change Net Name : Old Net Name=NetC1 - 0.1u_1 New Net Name=NetC2 - 0.1u_1
+Change Net Name : Old Net Name=NetC1 - 0.1u_2 New Net Name=NetC2 - 0.1u_2
+Added Member To Class: ClassName=buckconverter_sheet Member=Component C2 - 0.1u C0805C101J5GAC
+Added Member To Class: ClassName=buckconverter_sheet Member=Component C6-4.7n 4.7n
+Added Member To Class: ClassName=buckconverter_sheet Member=Component J? 1725656
+Added Member To Class: ClassName=buckconverter_sheet Member=Component R_A-40k2 CRCW08050000Z0EA
