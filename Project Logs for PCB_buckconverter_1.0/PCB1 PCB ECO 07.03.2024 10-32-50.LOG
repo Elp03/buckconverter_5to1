@@ -1,0 +1,79 @@
+Change Component Comment : Designator=C1 Old Comment=2.2u New Comment=
+Change Component Comment : Designator=C2 Old Comment=C0805C101J5GAC New Comment=
+Change Component Comment : Designator=C5 Old Comment=C0805C101J5GAC New Comment=
+Change Component Comment : Designator=D1 Old Comment=CMDSH2-3_TR_PBFREE New Comment=
+Change Component Comment : Designator=R1 Old Comment=CRCW08050000Z0EA New Comment=
+Change Component Comment : Designator=R2 Old Comment=CRCW08050000Z0EA New Comment=
+Change Component Comment : Designator=R_A Old Comment=CRCW08050000Z0EA New Comment=
+Change Component Comment : Designator=R_B Old Comment=CRCW08050000Z0EA New Comment=
+Change Component Comment : Designator=R_sense Old Comment=CRE2512-FZ-R008E-3 New Comment=
+Change Component Comment : Designator=Cout Old Comment=RR71A221MDN1PH New Comment=
+Change Component Designator: OldDesignator=C2 NewDesignator=C2 
+Change Component Designator: OldDesignator=D1 NewDesignator=D?
+Change Component Designator: OldDesignator=J1 NewDesignator=J?
+Change Component Designator: OldDesignator=J2 NewDesignator=J?
+Change Component Designator: OldDesignator=LTC NewDesignator=IC?
+Change Component Designator: OldDesignator=R2 NewDesignator=R2_15.4k
+Change component parameters: Designator = "L1" ("L1"); Footprint = "MtFootprint"; UniqueID = "\AUSLVGER" ("\AUSLVGER")
+Change component parameters (AddParameter): Name = "Case/Size Code"; Value = "5039"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Fixed Inductors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Channels"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/BOUR/BOUR-S-A0006604481/BOUR-S-A0006604481-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/BOUR/BOUR-S-A0006604481/BOUR-S-A0006604481-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/8515/sdr1005-8515477.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/8515/sdr1005-8515477.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Construction"; Value = "Rectangular"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Core Material"; Value = "Ferrite"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CPAR"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance (DCR)"; Value = "12mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DTEMP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance-Nom (L)"; Value = "2.5uH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductor Application"; Value = "POWER INDUCTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductor Type"; Value = "GENERAL PURPOSE INDUCTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Initial Current"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JESD-609 Code"; Value = "e2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "M"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "SDR1005-2R5ML"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = "5.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Height"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Length"; Value = "12.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Style"; Value = "SMTMeter"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Width"; Value = "10mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing"; Value = "1=0,83, 10=0,714, 25=0,6548, 50=0,5952, 100=0,5297, 250=0,49992 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RPAR"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RSER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Self Resonant Frequency"; Value = "56MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Shape/Size Description"; Value = "RECTANGULAR PACKAGE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Shielding"; Value = "Unshielded"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock"; Value = "579"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "SDR1005-2R5MLCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Surface Mount"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "T_REL_LOCAL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TEMP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Terminal Finish"; Value = "Copper"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Terminal Placement"; Value = "Dual Ended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Wraparound"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Test Frequency"; Value = "1kHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=IC?-4
+Added Pin To Net: NetName=GND Pin=IC?-5
+Change Net Name : Old Net Name=NetC1-2.2u_2 New Net Name=NetC1_2
+Change Net Name : Old Net Name=NetC2 - 0.1u_1 New Net Name=NetC2 _1
+Change Net Name : Old Net Name=NetC2 - 0.1u_2 New Net Name=NetC2 _2
+Change Net Name : Old Net Name=NetC4-0.1u_2 New Net Name=NetC4_2
+Change Net Name : Old Net Name=NetC5-47p_2 New Net Name=NetC5_2
+Change Net Name : Old Net Name=NetC6-4.7n_2 New Net Name=NetC6_2
+Added Member To Class: ClassName=buckconverter_sheet Member=Component J? 1725656

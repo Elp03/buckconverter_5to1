@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=R_A-1
+Change Component Designator: OldDesignator=R_A NewDesignator=R_A1
+Added Component: Designator=R_A2(RESC2013X50X30LL20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW08050000Z0EA"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=buckconverter_sheet Member=Component J? 1725656
+Added Member To Class: ClassName=buckconverter_sheet Member=Component R_A2

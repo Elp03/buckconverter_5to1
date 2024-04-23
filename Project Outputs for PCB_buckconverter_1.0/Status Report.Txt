@@ -1,12 +1,21 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [PCB_buckconverter_1.0.PrjPcb]
-   Generated File[PCB1.TXT]
-   Generated File[PCB1.LDP]
-   Generated File[PCB1.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : PCB Document [PCB1.PcbDoc]
+   Generated File[PCB1.GTO]
+   Generated File[PCB1.GTP]
+   Generated File[PCB1.GTS]
+   Generated File[PCB1.GTL]
+   Generated File[PCB1.GBL]
+   Generated File[PCB1.GBS]
+   Generated File[PCB1.GBP]
+   Generated File[PCB1.GBO]
+   Generated File[PCB1.GKO]
+   Generated File[PCB1.GM]
+   Generated File[PCB1.EXTREP]
+   Generated File[PCB1.REP]
 
 
-Files Generated   : 3
+Files Generated   : 12
 Documents Printed : 0
 
-Finished Output Generation At 12:10:08 On 15.02.2024
+Finished Output Generation At 11:35:27 On 19.03.2024

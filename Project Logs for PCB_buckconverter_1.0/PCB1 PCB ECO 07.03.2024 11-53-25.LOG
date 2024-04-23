@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=GND Pin=R_A2-1
+Added Pin To Net: NetName=NetR_A1_1 Pin=R_A1-1
+Added Pin To Net: NetName=NetR_A1_1 Pin=R_A2-2
+Added Net: Name=NetR_A1_1
+Added Member To Class: ClassName=buckconverter_sheet Member=Component J? 1725656
